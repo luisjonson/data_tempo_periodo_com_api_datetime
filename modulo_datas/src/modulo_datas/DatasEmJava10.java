@@ -3,7 +3,6 @@ package modulo_datas;
 import java.text.ParseException;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
-import java.util.Locale;
 
 public class DatasEmJava10 {
 	public static void main(String[] args) throws ParseException, InterruptedException {
